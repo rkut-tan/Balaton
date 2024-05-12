@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57216803255",
+    "project_id": "balaton-420",
+    "storage_bucket": "balaton-420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57216803255:android:15f158656e52adfcda4832",
+        "android_client_info": {
+          "package_name": "com.example.balaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtioZleKAVlQ4Fkxxo7XRH3E3YRDudPpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
